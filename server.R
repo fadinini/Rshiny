@@ -10,7 +10,6 @@ library(esquisse)
 library(tidyverse)
 library(DT)
 library(data.table)
-library("Hmisc")
 
 
 ### Import table 
